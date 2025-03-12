@@ -25,7 +25,7 @@ series of book experinces:
 | Esther       | Haggai         |
 | Job          | Zechariah      |
 | Psalms       | Malachi        |
-| Proverbs                      |
+| Proverbs     |                |
  
 
 

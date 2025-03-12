@@ -27,3 +27,21 @@ Comments will quote passages of the HOLY BIBLE (NIV version).
 | Job          | Zechariah       |
 | Psalms        | Malachi        |
 | Proverbs      |               |
+
+
+| NEW TESTAMENT    | NEW TESTAMENT  |
+|-----------------|---------------|
+| Matthew         | 1 Timothy      |
+| Mark            | 2 Timothy      |
+| Luke            | Titus          |
+| John            | Philemon       |
+| Acts            | Hebrews        |
+| Romans          | James          |
+| 1 Corinthians   | 1 Peter        |
+| 2 Corinthians   | 2 Peter        |
+| Galatians       | 1 John         |
+| Ephesians       | 2 John         |
+| Philippians     | 3 John         |
+| Colossians      | Jude           |
+| 1 Thessalonians | Revelation     |
+| 2 Thessalonians |                |

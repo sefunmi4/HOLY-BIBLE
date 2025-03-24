@@ -1,11 +1,11 @@
 # HOLY-BIBLE
 Book experience of the HOLY BIBLE
 
-Comments will quote passages of the HOLY BIBLE (NIV version).
-Code will translate those passages into interactive and experince based storys & games.
+Comments will quote passages from the HOLY BIBLE (NIV version).
+Code will translate those passages into interactive and experience-based stories & games.
 
 ## Why? 
-Yuval Noah Harari mentioned that what markes people special is the storyies we tell and the different ways we do it. 
+Yuval Noah Harari mentioned that what makes people special is the stories we tell and the different ways we do it. 
 Like scribes in writing on paper, code is a new form of story telling that allows us to interact and experince the stories we wish to tell. 
 
 I want to know what it like to be a scribe, practice coding, and most importantly for me do some bible studies.

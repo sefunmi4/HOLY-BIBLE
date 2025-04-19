@@ -6,9 +6,11 @@ Code will translate those passages into interactive and experience-based stories
 
 ## Why? 
 Yuval Noah Harari mentioned that what makes people special is the stories we tell and the different ways we do it. 
-Like scribes writing on paper, code is a new form of storytelling that allows us to interact with and experience the stories we wish to tell. 
+Like scribes writing on paper, code is a new form of storytelling that allows us to interact with and experience the stories we choose to tell. 
 
-I want to know what it is like to be a scribe, practice coding, and most importantly for me, do some bible studies.
+I want to know what it is like to be a scribe, practice coding, and mainly do some bible studies.
+
+I also think it's important to write code as a new form of record-keeping.
 
 If you are interested in any aspect of this project, feel free to message me on gihtub, send a feature request, bug issue, or clone repo and send a pull request.
 

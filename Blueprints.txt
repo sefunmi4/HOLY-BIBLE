@@ -28,12 +28,12 @@ Server
 
 
 1.1 - “In the beginning, God created the heavens and the earth.”
-Heavens = THE_ACTIONS_OF_GOD.heavens()
-Earth = THE_ACTIONS_OF_GOD.planet()
+Heavens = THE_ACTIONS_OF_GOD.create().heavens()
+Earth = THE_ACTIONS_OF_GOD.create().planet()
 1.2 - “Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.“ 
 Earth.set_adjectives(form = null, matter =null).
 surface_of_the_deep = Earth.set_surface(type = deep)
-darkness = THE_ACTIONS_OF_GOD.darkness()
+darkness = THE_ACTIONS_OF_GOD.create().darkness()
 darkness.over(Surface_of_the_deep)
 waters = Earth.get_waters()
 THE_SPIRIT_OF_GOD.hover(waters)

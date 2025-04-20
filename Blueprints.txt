@@ -1,6 +1,6 @@
 
-Ink on scrolls - Subject action_verb object
-# GOD is the ultimate Subject class, so great the class can not exist
+Ink on scrolls - subject action_verb object
+# GOD is the main subject class, the class is beyond comprehension 
 
 #THE_ACTIONS_OF_GOD is the ultimate action_verb class. 
 # It can be experienced inherently (inherited) through physics (matter) & information (spirit) theory action_verb classes
@@ -14,42 +14,3 @@ THE_ACTIONS_OF_GOD: # subject datastructure class
 		planet(name= ”earth”)
 		darkness()
 
-	
-
-A full-stack book experience of Genesis
-
-Database 
-
-
-1.1 - In the beginning, God created the heavens and the earth. 
-1.2 - Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.  
-
-Server 
-
-
-1.1 - “In the beginning, God created the heavens and the earth.”
-Heavens = THE_ACTIONS_OF_GOD.create().heavens()
-Earth = THE_ACTIONS_OF_GOD.create().planet()
-1.2 - “Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.“ 
-Earth.set_adjectives(form = null, matter =null).
-surface_of_the_deep = Earth.set_surface(type = deep)
-darkness = THE_ACTIONS_OF_GOD.create().darkness()
-darkness.over(Surface_of_the_deep)
-waters = Earth.get_waters()
-THE_SPIRIT_OF_GOD.hover(waters)
-
-Web 
-
-
-1.1 - “In the beginning, God created the heavens and the earth.”
-Visual of the observable universe and then focus on the earth.
-1.2 - “Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.“ 
-Show the earth with a formless and empty shape
-Then show darkness over the surface of the deep
-Then show the Spirit of God hovering over the water
-1.3 - 
-
-
-
-User Experience 
-VIEIWNG THE PRESENCE OF GOD

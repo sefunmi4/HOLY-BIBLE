@@ -9,6 +9,16 @@ Ink on scrolls - subject action_verb object
 THE_SPIRIT_OF_GOD:  # subject data structure class
     hover(target)
 
+PHYSICS:
+    # Future class describing interactions with matter
+    laws()
+    big_bang()
+
+INFORMATION:
+    # Future class describing spiritual or informational aspects
+    encode(message)
+    decode(message)
+
 THE_ACTIONS_OF_GOD:  # subject data structure class
     Create:
         heavens()
@@ -17,3 +27,4 @@ THE_ACTIONS_OF_GOD:  # subject data structure class
         said(command)
         saw(thing)
         separate(light, darkness)
+        call(name, thing)

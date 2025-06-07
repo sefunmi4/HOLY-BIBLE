@@ -1,2 +1,5 @@
-pytest
-jupyter
+pytest>=6.0
+jupyter>=1.0
+flake8>=6.0
+black>=24.3
+nbqa>=1.7

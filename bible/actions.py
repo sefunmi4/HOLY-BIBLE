@@ -17,6 +17,8 @@ class TheActionsOfGod:
     def said(command):
         if command == "Let there be light":
             return "light"
+        if command == "Let there be a vault":
+            return "vault"
         return None
 
     @staticmethod
@@ -27,6 +29,11 @@ class TheActionsOfGod:
     def separate(light, darkness):
         return light, darkness
 
+    @staticmethod
+    def call(name, thing):
+        """Associate a name with a thing, similar to God naming creations."""
+        return {name: thing}
+      
 class TheSpiritOfGod:
     @staticmethod
     def hover(target):

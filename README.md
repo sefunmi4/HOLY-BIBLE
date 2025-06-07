@@ -16,14 +16,20 @@ If you are interested in any aspect of this project, feel free to message me on 
    ```bash
    pip install -r requirements.txt
    ```
-2. Launch Jupyter and open any notebook. The Genesis notebook is located at `old_testament/genesis/Genesis.ipynb`.
+2. Install the project in editable mode:
+   ```bash
+   pip install -e .
+   ```
+3. Launch Jupyter:
+   ```bash
+   jupyter notebook
+   ```
+   Then open `old_testament/genesis/Genesis.ipynb`.
+
+The notebook imports helpers from the `bible` package to model passages programmatically.
 
 ## Contributing
-Contributions are welcome! Please open an issue to discuss ideas or submit a pull request.
-
-* Fork the repository and create a new branch.
-* Make your changes with descriptive commit messages.
-* Ensure tests run with `pytest` before submitting.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on setting up your environment, running tests, and submitting pull requests.
 
 ## Series of Book Experiences:
 

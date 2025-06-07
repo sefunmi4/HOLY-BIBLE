@@ -1,18 +1,35 @@
 # HOLY-BIBLE
-Book experience of the HOLY BIBLE
 
-Comments will quote passages from the HOLY BIBLE (NIV version).
-Code will translate those passages into interactive and experience-based stories & games.
+A project exploring a **full‑stack book experience** for the Holy Bible. The goal is to use code and notebooks to create interactive retellings of biblical passages.
 
-## Why? 
-Yuval Noah Harari mentioned that what makes people special is the stories we tell and the different ways we do it. 
-Like scribes writing on paper, code is a new form of storytelling that allows us to interact with and experience the stories we choose to tell. 
+Comments quote passages from the HOLY BIBLE (NIV version) and code translates those passages into interactive stories and small games.
 
-I want to know what it is like to be a scribe, practice coding, and mainly do some bible studies.
+## Why?
+Yuval Noah Harari mentioned that what makes people special is the stories we tell and the different ways we do it. Like scribes writing on paper, code is a new form of storytelling that allows us to interact with and experience the stories we choose to tell.
 
-I also think it's important to write code as a new form of record-keeping.
+I want to know what it is like to be a scribe, practice coding and bible studies, and use code as a new form of record‑keeping.
 
-If you are interested in any aspect of this project, feel free to message me on gihtub, send a feature request, bug issue, or clone repo and send a pull request.
+If you are interested in any aspect of this project, feel free to message me on GitHub, send a feature request, bug issue, or clone the repo and send a pull request.
+
+## Getting Started
+1. Install dependencies from `requirements.txt`:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Install the project in editable mode:
+   ```bash
+   pip install -e .
+   ```
+3. Launch Jupyter:
+   ```bash
+   jupyter notebook
+   ```
+   Then open `old_testament/genesis/Genesis.ipynb`.
+
+The notebook imports helpers from the `bible` package to model passages programmatically.
+
+## Contributing
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on setting up your environment, running tests, and submitting pull requests.
 
 ## Series of Book Experiences:
 
@@ -38,7 +55,6 @@ If you are interested in any aspect of this project, feel free to message me on 
 | Job          | Zechariah       |
 | Psalms        | Malachi        |
 | Proverbs      |               |
-
 
 | NEW TESTAMENT    | NEW TESTAMENT  |
 |-----------------|---------------|

@@ -28,3 +28,6 @@ THE_ACTIONS_OF_GOD:  # subject data structure class
         saw(thing)
         separate(light, darkness)
         call(name, thing)
+
+# TODO: Extend interactions and add more methods to each class.
+# TODO: Decide how notebooks will interface with these classes.

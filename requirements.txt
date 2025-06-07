@@ -3,3 +3,4 @@ jupyter>=1.0
 flake8>=6.0
 black>=24.3
 nbqa>=1.7
+# TODO: lock versions for reproducible environment

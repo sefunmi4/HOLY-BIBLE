@@ -1,6 +1,8 @@
 class TheActionsOfGod:
     """A minimal implementation of actions used in Genesis."""
 
+    # TODO: expand this class with additional methods for later chapters
+
     @staticmethod
     def heavens():
         return "heavens"
@@ -19,6 +21,7 @@ class TheActionsOfGod:
             return "light"
         if command == "Let there be a vault":
             return "vault"
+        # TODO: handle more creation commands (e.g., "Let dry ground appear")
         return None
 
     @staticmethod
@@ -27,6 +30,7 @@ class TheActionsOfGod:
 
     @staticmethod
     def separate(light, darkness):
+        # TODO: implement logic for tracking separated elements
         return light, darkness
 
     @staticmethod
@@ -35,6 +39,7 @@ class TheActionsOfGod:
         return {name: thing}
       
 class TheSpiritOfGod:
+    # TODO: add more spiritual interactions
     @staticmethod
     def hover(target):
         return f"hovering over {target}"

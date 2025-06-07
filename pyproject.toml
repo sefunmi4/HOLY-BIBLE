@@ -13,5 +13,4 @@ dependencies = []
 
 [project.optional-dependencies]
 develop = ["pytest", "jupyter", "flake8", "black", "nbqa"]
-
 # TODO: review package metadata before release

@@ -37,7 +37,7 @@ class TheActionsOfGod:
     def call(name, thing):
         """Associate a name with a thing, similar to God naming creations."""
         return {name: thing}
-
+      
 class TheSpiritOfGod:
     # TODO: add more spiritual interactions
     @staticmethod

@@ -46,3 +46,4 @@ def test_call():
 
 def test_spirit_hover():
     assert TheSpiritOfGod.hover("waters") == "hovering over waters"
+

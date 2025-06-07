@@ -22,3 +22,4 @@ jobs:
         run: |
           nbqa flake8 old_testament/genesis/Genesis.ipynb
       # TODO: add notebook execution tests
+

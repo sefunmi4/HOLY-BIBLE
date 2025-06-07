@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bible"
+version = "0.1.0"
+description = "A full-stack book experience"
+authors = [{name = "OpenAI Codex"}]
+readme = "README.md"
+license = {text = "MIT"}
+dependencies = []
+
+[project.optional-dependencies]
+develop = ["pytest", "jupyter", "flake8", "black", "nbqa"]
+
+# TODO: review package metadata before release

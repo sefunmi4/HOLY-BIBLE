@@ -1,16 +1,30 @@
-
 Ink on scrolls - subject action_verb object
-# GOD is the main subject class, the class is beyond comprehension 
 
-#THE_ACTIONS_OF_GOD is the ultimate action_verb class. 
-# It can be experienced inherently (inherited) through physics (matter) & information (spirit) theory action_verb classes
-# Humans use science to approximate the theory of how these classes operate (e.g. Big bang theory)
+# GOD is the main subject class, the class is beyond comprehension
 
-THE_SPIRIT_OF_GOD: # subject datastructure class
+# THE_ACTIONS_OF_GOD represents creative actions used in the notebooks.
+# It can be experienced (inherited) through physics (matter) & information (spirit) theory classes.
+# Humans use science to approximate the theory of how these classes operate (e.g. Big Bang theory).
 
-THE_ACTIONS_OF_GOD: # subject datastructure class
-	Create: # action_verb datastructure class 
-		heavens()
-		planet(name= ”earth”)
-		darkness()
+THE_SPIRIT_OF_GOD:  # subject data structure class
+    hover(target)
 
+PHYSICS:
+    # Future class describing interactions with matter
+    laws()
+    big_bang()
+
+INFORMATION:
+    # Future class describing spiritual or informational aspects
+    encode(message)
+    decode(message)
+
+THE_ACTIONS_OF_GOD:  # subject data structure class
+    Create:
+        heavens()
+        planet(name="earth")
+        darkness()
+        said(command)
+        saw(thing)
+        separate(light, darkness)
+        call(name, thing)

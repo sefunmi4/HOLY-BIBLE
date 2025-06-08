@@ -72,3 +72,10 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on setting up your 
 | Colossians      | Jude           |
 | 1 Thessalonians | Revelation     |
 | 2 Thessalonians |                |
+
+## TODO
+- Expand the Genesis notebook with additional verses and refactor repeated logic into helper functions.
+- Flesh out `bible.actions` with more creation commands and side effects.
+- Define `PHYSICS` and `INFORMATION` classes per `Blueprints.txt`.
+- Add more unit tests to improve coverage.
+- Polish documentation for a public launch.

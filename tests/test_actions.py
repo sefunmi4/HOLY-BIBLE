@@ -1,6 +1,9 @@
 from bible.actions import TheActionsOfGod, TheSpiritOfGod
 
 
+# TODO: add tests for future functionality in bible.actions
+
+
 def test_heavens():
     assert TheActionsOfGod.heavens() == "heavens"
 

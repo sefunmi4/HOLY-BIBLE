@@ -12,7 +12,7 @@ license = {text = "MIT"}
 dependencies = []
 
 [project.optional-dependencies]
-develop = ["pytest", "jupyter", "flake8", "black", "nbqa"]
+develop = ["pytest", "jupyter", "flake8", "black", "nbqa", "flask"]
 
 # TODO: review package metadata before release
 

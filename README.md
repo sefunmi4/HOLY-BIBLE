@@ -83,3 +83,12 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on setting up your 
 - Define `PHYSICS` and `INFORMATION` classes per `Blueprints.txt`.
 - Add more unit tests to improve coverage.
 - Polish documentation for a public launch.
+
+## Logging
+The helper functions in ``bible.actions`` emit logs using Python's ``logging``
+module. Control the verbosity with the ``BIBLE_LOG_LEVEL`` environment variable.
+For example:
+
+```bash
+export BIBLE_LOG_LEVEL=DEBUG
+```

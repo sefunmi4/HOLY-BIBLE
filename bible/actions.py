@@ -22,6 +22,7 @@ class TheActionsOfGod:
         if command == "Let there be a vault":
             return "vault"
         # TODO: handle more creation commands (e.g., "Let dry ground appear")
+
         return None
 
     @staticmethod

@@ -31,5 +31,6 @@ nbqa flake8 old_testament/genesis/Genesis.ipynb
 2. Commit your changes with clear messages.
 3. Ensure all tests pass and linting succeeds.
 4. Open a pull request describing your changes.
+
 \nTODO: add code style section for notebooks
 

@@ -31,3 +31,4 @@ THE_ACTIONS_OF_GOD:  # subject data structure class
 
 # TODO: Extend interactions and add more methods to each class.
 # TODO: Decide how notebooks will interface with these classes.
+

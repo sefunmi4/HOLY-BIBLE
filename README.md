@@ -25,6 +25,10 @@ If you are interested in any aspect of this project, feel free to message me on 
    jupyter notebook
    ```
    Then open `old_testament/genesis/Genesis.ipynb`.
+4. Run the web application:
+   ```bash
+   flask --app webapp run
+   ```
 
 The notebook imports helpers from the `bible` package to model passages programmatically.
 

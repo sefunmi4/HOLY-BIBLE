@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Notes</title>
+  </head>
+  <body>
+    <h1>Notebook Notes</h1>
+    <form method="post">
+      <textarea name="text" rows="4" cols="50" placeholder="Enter note"></textarea>
+      <br>
+      <button type="submit">Save Note</button>
+    </form>
+    <h2>Saved Notes</h2>
+    <ul>
+    {% for note in notes %}
+      <li>{{ note.text }}</li>
+    {% endfor %}
+    </ul>
+  </body>
+</html>

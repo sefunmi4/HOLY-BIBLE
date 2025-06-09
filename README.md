@@ -29,6 +29,7 @@ If you are interested in any aspect of this project, feel free to message me on 
    ```bash
    flask --app webapp run
    ```
+   Then open `http://localhost:5000/notes` to record notebook notes.
 
 The notebook imports helpers from the `bible` package to model passages programmatically.
 

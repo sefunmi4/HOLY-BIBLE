@@ -14,3 +14,4 @@ ENV/
 
 # Misc
 .DS_Store
+webapp/notes.json
